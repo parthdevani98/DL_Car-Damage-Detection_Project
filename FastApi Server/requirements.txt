@@ -1,3 +1,4 @@
+python==3.11
 fastapi==0.115.6
 Pillow==9.5.0
 torch==2.5.1+cu118
