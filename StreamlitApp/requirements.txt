@@ -1,4 +1,7 @@
+pip>=23.2
+setuptools>=68.0
+wheel
 streamlit==1.40.2
-Pillow==9.5.0
-torch==2.5.1+cu118
+torch==2.5.1
 torchvision==0.20.1
+Pillow==10.2.0
