@@ -1,4 +1,4 @@
-python==3.11
+python==3.10.11
 streamlit==1.40.2
 Pillow==9.5.0
 torch==2.5.1+cu118
